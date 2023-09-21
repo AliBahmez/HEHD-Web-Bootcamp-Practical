@@ -1,0 +1,8 @@
+div + div{
+    margin: 50px 0px;
+}
+div{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
